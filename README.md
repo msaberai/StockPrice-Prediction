@@ -16,9 +16,9 @@ Markets are complex systems and chaotic systems with complex dynamics, yet to a 
 
 ### Solution
 
-Auto-regression > ARIMA Model (R language)
-Linear Machine Learning: Linear Regression (Pyspark)
-Deep Learning > Additive Model (Facebook tools)
+- Auto-regression > ARIMA Model (R language)
+- Linear Machine Learning: Linear Regression (Pyspark)
+- Deep Learning > Additive Model (Facebook tools)
 
 ### Technical Tools:
 
