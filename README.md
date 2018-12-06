@@ -4,7 +4,7 @@
 ### Intensive Communications and Information Technology (3 months) and under the supervision National Telecommunication Institute (NTI), Ministry of Communications and Information Technology (MCIT) in Egypt
 ### Track Big Data Science
 
-
+### Stock Price Prediction by Algorithms Trading
 
 
 ### Project Objective
