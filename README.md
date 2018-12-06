@@ -1,9 +1,7 @@
 # Stock-Price-Prediction-NTI-Project
 
 
-### Intensive Communications and Information Technology (3 months)
-### Under the supervision National Telecommunication Institute (NTI),
-### Ministry of Communications and Information Technology (MCIT) in Egypt
+### Intensive Communications and Information Technology (3 months) and under the supervision National Telecommunication Institute (NTI), Ministry of Communications and Information Technology (MCIT) in Egypt
 ### Track Big Data Science
 
 
