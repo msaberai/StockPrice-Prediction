@@ -1,19 +1,3 @@
-# Stock-Price-Prediction-Project
-
-
-### Intensive Communications and Information Technology (3 months) and under the supervision National Telecommunication Institute (NTI), Ministry of Communications and Information Technology (MCIT) in Egypt
-
-### Track Big Data Science
-
-### Stock Price Prediction by Algorithms Trading
-
-### Team member 
-- Eng. Moahmed Saber
-- Eng. Amir Zaghloul
-- Eng. Yara Sabry
-- Eng. Amr Abd Alaziz
-
-
 ### Project Objective
 
 Stock price prediction by trading algo. is the act of trying to determine the future value of a company stock or other instrument traded on an exchange. The successful prediction of a stock's future price could yield a significant profit( ). we need to  forecast the stock price for days that we determined  so, we used  time series analysis and forecasting to predict the returns on a stock for that days (i.e., predict future data points (returns) in a time of days).   
